@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #f8f8f8;
+    color: #29292e;
+
+    &.dark {
+        background: #333;
+        color: #FFF !important;
+
+        .room-title h1 {
+            color: #FFF !important;
+        }
+
+        .form-footer span {
+            color: #FFF !important;
+        }
+    }
+}
+
+body, input, button, textarea {
+    font: 400 16px 'Roboto', sans-serif;
+}
