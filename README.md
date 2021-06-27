@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Letmeask" title="Letmeask" src="https://github.com/emersonlimas/NLW-Together-ReactJS/blob/master/letmeask/src/assets/images/logo.svg" width="157px" />
+  <img alt="Letmeask" title="Letmeask" src="https://github.com/emersonlimas/NLW6-Together/blob/master/letmeask/src/assets/images/logo.svg" width="157px" />
 </h1>
 
 <p align="center">
@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img alt="Letmeask" src="https://raw.githubusercontent.com/emersonlimas/NLW-Together-ReactJS/master/letmeask/src/assets/images/letmeask.gif" width="90%">
+  <img alt="Letmeask" src="https://github.com/emersonlimas/NLW6-Together/blob/master/letmeask/src/assets/images/letmeask.gif" width="90%">
 </p>
 
 ## 🧐 About <a name = "about"></a>
@@ -26,7 +26,7 @@ It consists of a platform to create Q&A rooms (questions and answers).
 Clone the project and access the folder.
 
 ```
-git clone https://github.com/emersonlimas/NLW-Together-ReactJS.git
+git clone https://github.com/emersonlimas/NLW6-Together.git
 
 
 # 💻 Starting the project
@@ -53,7 +53,7 @@ This project was developed using the following technologies:
 
 ## 🤔 Contribute <a name = "contribute"></a>
 
-- Clone this repository: `git clone https://github.com/emersonlimas/NLW-Together-ReactJS.git`
+- Clone this repository: `git clone https://github.com/emersonlimas/NLW6-Together.git`
 - Create a branch with your feature: `git checkout -b my-feature`;
 - Commit your changes: `git commit -m 'feat | my new feature'`;
 - Push to your branch: `git push origin my-feature`.
